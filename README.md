@@ -3,7 +3,7 @@
 A deep learning pipeline for classifying visually similar documents by combining **visual** and **textual** information.
 
 > ⚠️ **Confidentiality notice**
-> This project was completed during my summer internship at **Tufratech**. Due to a confidentiality agreement with the company, the **source code**, **trained model weights**, and **dataset** cannot be shared publicly. This repository documents the **methodology, architecture, and approach** only.
+>  Due to a confidentiality agreement, the **source code**, **trained model weights**, and **dataset** cannot be shared publicly. This repository documents the **methodology, architecture, and approach** only.
 
 ---
 
