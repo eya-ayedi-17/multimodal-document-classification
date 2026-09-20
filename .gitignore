@@ -1,0 +1,11 @@
+﻿*.csv
+*.json
+*.pt
+*.pth
+*.ckpt
+*.h5
+/data/
+/dataset/
+.env
+__pycache__/
+*.pyc
